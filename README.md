@@ -5,7 +5,7 @@ Statistical assessment of potentially habitable exoplanets on the basis of physi
 
 A notebook-based data analysis project that combines exoplanet catalog data, uncertainty-aware classification, and a simplified habitability screening pipeline. The workflow starts with cleaning NASA exoplanet archive data, then estimates flux, classifies planets by composition using Bayesian MCMC, studies correlations among key physical variables, and finally filters rocky planets using gravity, flux, and estimated surface temperature.
 
-#### Gravity Component Credits: Anjali CS & Nandalakshmi V 
+#### Gravity Component Credits: Anjali CS & Nanda Lakshmi V 
 
 ## Project Summary
 
