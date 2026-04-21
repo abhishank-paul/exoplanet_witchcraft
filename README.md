@@ -7,6 +7,9 @@ A notebook-based data analysis project that combines exoplanet catalog data, unc
 
 #### Gravity Component Credits: Anjali CS & Nanda Lakshmi V 
 
+#### Powerpoint Presentation: Anjali CS & Nanda Lakshmi V
+
+
 ## Project Summary
 
 This project asks a blunt but useful question: which exoplanets might be remotely compatible with Earth-like surface conditions? To answer it, the notebook builds a full analysis chain:
